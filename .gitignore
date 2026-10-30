@@ -1,0 +1,80 @@
+# ──────────────────────────────────────────
+# Python
+# ──────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+
+# ──────────────────────────────────────────
+# Virtual environments
+# ──────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ──────────────────────────────────────────
+# Environment / secrets — NEVER commit these
+# ──────────────────────────────────────────
+.env
+.env.local
+.env.production
+.env.staging
+.streamlit/secrets.toml
+
+# ──────────────────────────────────────────
+# IDE & editor configs
+# ──────────────────────────────────────────
+.vscode/
+.idea/
+.pyrightconfig.json
+pyproject.toml
+*.swp
+*.swo
+
+# ──────────────────────────────────────────
+# macOS system files
+# ──────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# ──────────────────────────────────────────
+# Logs
+# ──────────────────────────────────────────
+*.log
+logs/
+
+# ──────────────────────────────────────────
+# ML models & large binary artifacts
+# ──────────────────────────────────────────
+*.pkl
+!resume_classifier_v2.pkl
+!resume_classifier_v3_skills_mlp.pkl
+*.csv
+*.model
+*.h5
+*.pt
+*.pth
+
+# ──────────────────────────────────────────
+# User-uploaded files (runtime artifacts)
+# ──────────────────────────────────────────
+Uploaded_Resumes/*.pdf
+Uploaded_Resumes/*.doc
+Uploaded_Resumes/*.docx
+
+# ──────────────────────────────────────────
+# Internal dev / training artifacts
+# soft_skill_role_trainer.py is now tracked
+skill_role_validation_report.json
+
+# ──────────────────────────────────────────
+# Fonts — tracked in repo (required by deployed app for logo rendering)
+# ──────────────────────────────────────────
+# nevera_font/ is intentionally kept in the repo
