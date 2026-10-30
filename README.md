@@ -584,7 +584,7 @@ Interests: machine learning, NLP, data science, AI applications, full-stack deve
 
 ## Acknowledgments
 
-- Based on the open-source [InternHunt](https://github.com/ShubhamSnSharma/InternHunt) project by Shubham Sharma (MIT License), customized and maintained by Sujal Singhal
+- Based on the open-source [InternHunt](https://github.com/SujalSinghal123/InternHunt) project by Sujal Singhal
 - [Google Gemini](https://ai.google.dev/) for the generative AI API
 - [Streamlit](https://streamlit.io/) for the application framework
 - [scikit-learn](https://scikit-learn.org/) and [spaCy](https://spacy.io/) for the ML and NLP tooling
