@@ -14,7 +14,7 @@ InternHunt is an AI-powered resume intelligence platform built with Streamlit, s
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
 [![Version](https://img.shields.io/badge/Version-v3.0.0-8b5cf6?style=for-the-badge)](#)
 
-**[GitHub](https://github.com/SujalSinghal123/InternHunt)** · **[Portfolio](https://portfolio-sujal-1d18.vercel.app/)**
+**[GitHub](https://github.com/SujalSinghal123/InternHunt)** · **[Portfolio](https://portfolio-sujal-1d18.vercel.app/)** . **[Live App](https://sujal-internhunt.streamlit.app/)**
 
 ---
 
